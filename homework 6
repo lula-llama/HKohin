@@ -1,0 +1,9 @@
+https://repl.it/repls/SizzlingNavyblueMouse
+money_inPocket=100
+bill=40
+tip=0.10* bill
+totalBill= bill + tip
+money_inPocket-=totalBill
+print(money_inPocket) 
+
+answer is 56.0
