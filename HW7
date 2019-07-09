@@ -1,0 +1,9 @@
+https://repl.it/repls/AwkwardFreshBoard
+
+def main():
+  mark=int(input("enter total marks:"))
+  if mark >50:
+    print("Student has passed the exam!")
+  if mark <50:
+    print("Student has failed the exam!")
+main()
