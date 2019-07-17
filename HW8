@@ -1,0 +1,5 @@
+.append() lets you add things
+.remove() lets you remove things
+.extend() adds extra elements to already existing list.
+.clear()gets rid of the whole list while .pop() gets rid of the last element in a list.
+the variable friends2. repersents new updated verision of the strings.
