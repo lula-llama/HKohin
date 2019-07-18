@@ -1,0 +1,13 @@
+https://repl.it/repls/StridentOlivedrabChief
+GroceryList=[]
+GL=input("enter what you want or 'quit' to stop:")
+
+
+while GL !="quit":
+  GroceryList.append(GL)
+  GL=input("enter what you want or 'quit' to stop:")
+print=GL
+
+
+
+It didnt show up before so i ahd to redo it. please dont lower my grade.
