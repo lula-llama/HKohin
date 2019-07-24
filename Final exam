@@ -1,0 +1,45 @@
+num_add is the function name
+def
+
+(b) none
+by its name
+(b) H o
+HELLO WORLD?
+(d)?
+(b)
+adorable="nutty ottors make latters"
+double="nutty ottors make latters"
+print (double.split("tt"))
+11)name="tom cruise"
+print(len(name))
+12)(d)
+13)friends=["kevin","karen","jim","oscar","toby"]
+friends.append("Khoin")
+print(friends)
+B)gets rid of the whole list
+C)removes last element
+D)friends=["kevin","karen","shawn","oscar","toby"]
+friends.append("shawn")
+print(friends[2])
+?
+14)append adds an element while extend increses the elements?
+15)num=0
+while num<=10:
+  print(num)
+  num=num+1
+  16)an infinate loop is a loop that never stops and keeps going to infinity. there isnt a blocker unless you manually stop it.
+  17)def main():
+  answer=()
+  Today=int(input("is it raining?:"))
+  if answer = yes:
+  print("watch netflix")
+  elif answer = sort of:
+    print("chill out")
+  else:
+    print("go to the park")
+main()
+
+18)a=true
+b)false
+c)false
+D)true
